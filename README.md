@@ -7,7 +7,7 @@ November 2020
 _disclaimer_ this project is not complete
 
 # Data
-this is where my data goes
+this is where my data goes once I have created clean tables
 
 # Code 
 I am going to add code here
